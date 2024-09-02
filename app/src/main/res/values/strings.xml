@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Relative Layout</string>
+    <string name="pt_name">PT M.S JJJ</string>
+    <string name="location">Sleman, D.I. Yogyakarta</string>
+    <string name="information">Informasi perubahan data katalog</string>
+    <string name="last_update">Pembaruan Terakhir :</string>
+    <string name="last_date">16-06-2022 15:00:01</string>
+    <string name="future_update">Pembaruan Selanjutnya :</string>
+    <string name="future_date">17-06-2022 15:00:01</string>
+    <string name="tender_katalog">Katalog Tender</string>
+    <string name="tender_tersimpan">Tender Tersimpan</string>
+    <string name="laporan">Laporan Statistik</string>
+    <string name="setting">Pengaturan</string>
+    <string name="informasi">
+        Informasi perubahan data katalog \n
+        Pembaruan Terakhir : <font color="#EE6627">16-06-2022 15:00:01</font>\n
+        Pembaruan Selanjutnya : <font color="#EE6627">17-06-2022 15:00:01</font>
+    </string>
+</resources>
